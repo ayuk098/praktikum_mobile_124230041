@@ -1,6 +1,6 @@
-# praktikum_mobile
+# Latihan Kuis Praktikum Mobile
 
-A new Flutter project.
+Wahyu Ramadani Manurung | SI-A | 124230041 
 
 ## Getting Started
 
